@@ -1,0 +1,16 @@
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\bin\Debug\net5.0\Homework1_KrestikiNoliki.exe
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\bin\Debug\net5.0\Homework1_KrestikiNoliki.deps.json
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\bin\Debug\net5.0\Homework1_KrestikiNoliki.runtimeconfig.json
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\bin\Debug\net5.0\Homework1_KrestikiNoliki.runtimeconfig.dev.json
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\bin\Debug\net5.0\Homework1_KrestikiNoliki.dll
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\bin\Debug\net5.0\Homework1_KrestikiNoliki.pdb
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.csproj.AssemblyReference.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.AssemblyInfoInputs.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.AssemblyInfo.cs
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.csproj.CoreCompileInputs.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.dll
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\refint\Homework1_KrestikiNoliki.dll
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.pdb
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\Homework1_KrestikiNoliki.genruntimeconfig.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework1_KrestikiNoliki\obj\Debug\net5.0\ref\Homework1_KrestikiNoliki.dll

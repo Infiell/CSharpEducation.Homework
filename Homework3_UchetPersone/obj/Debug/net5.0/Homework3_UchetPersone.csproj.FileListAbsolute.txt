@@ -1,0 +1,16 @@
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\bin\Debug\net5.0\Homework3_UchetPersone.exe
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\bin\Debug\net5.0\Homework3_UchetPersone.deps.json
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\bin\Debug\net5.0\Homework3_UchetPersone.runtimeconfig.json
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\bin\Debug\net5.0\Homework3_UchetPersone.runtimeconfig.dev.json
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\bin\Debug\net5.0\Homework3_UchetPersone.dll
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\bin\Debug\net5.0\Homework3_UchetPersone.pdb
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.csproj.AssemblyReference.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.AssemblyInfoInputs.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.AssemblyInfo.cs
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.csproj.CoreCompileInputs.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.dll
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\refint\Homework3_UchetPersone.dll
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.pdb
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\Homework3_UchetPersone.genruntimeconfig.cache
+C:\Users\myrogotnev\source\repos\CSharpEducation.Homework\Homework3_UchetPersone\obj\Debug\net5.0\ref\Homework3_UchetPersone.dll
