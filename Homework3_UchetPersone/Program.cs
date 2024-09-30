@@ -80,7 +80,7 @@ namespace Homework3_UchetPersone
                 var parts = line.Split(',');
                 string name = parts[0].Trim();
                 string secondName = parts[1].Trim();
-                if (name == nameToChange)
+                if (name == nameToChange || secondName == secondNameToChange)
                 {
                     return $"{name},{secondName},{ageToUpdate},{cityToUpdate}";
                 }
