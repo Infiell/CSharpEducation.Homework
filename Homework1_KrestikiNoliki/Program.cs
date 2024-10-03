@@ -5,44 +5,32 @@ namespace Homework1_KrestikiNoliki
 {
     class Program
     {
-        static int[] krestOrNolik = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+        static int[] krestOrNolik;
         static void Main(string[] args)
         {
             Console.WriteLine("Добро пожаловать в крестики и нолики.");
-            Console.WriteLine("Каждый ход нужно выбирать в какое место поставить крестик либо нолик.");
-            Question();
+            Console.WriteLine("Игра начинается с нолика.");
             Console.ReadKey();
         }
-        static private void Render(char krestNol, int kres)
+        static private void Render(char symb, int place)
         {
-            krestOrNolik[kres] = krestNol;
-            Console.WriteLine($"1 {krestOrNolik[1]} | {krestOrNolik[2]} | {krestOrNolik[3]}\n" +
+            krestOrNolik[place] = symb;
+            Console.WriteLine($"1 {krestOrNolik[0]} | {krestOrNolik[1]} | {krestOrNolik[2]}\n" +
                               $" ----------\n" +
-                              $"2 {krestOrNolik[4]} | {krestOrNolik[5]} | {krestOrNolik[6]}\n" +
+                              $"2 {krestOrNolik[3]} | {krestOrNolik[4]} | {krestOrNolik[5]}\n" +
                               $" ----------\n" +
-                              $"3 {krestOrNolik[7]} | {krestOrNolik[8]} | {krestOrNolik[9]}\n" +
+                              $"3 {krestOrNolik[6]} | {krestOrNolik[7]} | {krestOrNolik[8]}\n" +
                               $"  1   2   3   ");
         }
-        static private void Question()
+
+        static private void Place()
         {
-            short answ;
-            Console.WriteLine("С крестика или нолика начнем ход? 0 - Крестик, 1 - Нолик");
-            answ = Convert.ToInt16(Console.ReadLine());
-            Change(answ);
-        }
-         
-        static private void Change(short answ)
-        {
-            int j = 0;
-            string whatIsTurn = "нолик";
-            char krestNol = 'O';
-            for (int i = 0; i < krestOrNolik.Count(); i++) { krestOrNolik[i] = ' '; }
-            while (j != 9)
+            string symb = "O";
+            int a = 0;
+            while (a != 9)
             {
-                Console.WriteLine($"Введите куда поставить {whatIsTurn}");
-                int kres = Convert.ToInt32(Console.ReadLine());
-                Render(krestNol, kres);
-                j++;
+                Console.WriteLine($"Введите куда поставить {symb}");
+                a++;
             }
         }
     }
